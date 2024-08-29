@@ -1,4 +1,5 @@
 Overview
+
 Welcome to the Mock HR and Task Management System project. This system has been developed as a part of the 3rd project assignment at Orange Coding Academy. The primary objective is to create a comprehensive platform for managing human resources and tasks within an organization, utilizing JavaScript for its core functionalities.
 
 Features
